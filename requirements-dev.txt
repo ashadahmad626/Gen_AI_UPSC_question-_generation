@@ -1,0 +1,9 @@
+# requirements-dev.txt - ✅ NO RUST NEEDED, Mac M1 Python 3.14
+streamlit==1.55.0
+langchain-core==0.3.63
+langchain==0.3.1
+langchain-community==0.3.1
+langchain-groq==0.2.0
+pandas==2.2.3
+python-dotenv==1.0.1
+# tiktoken REMOVED - not needed for quiz generation
